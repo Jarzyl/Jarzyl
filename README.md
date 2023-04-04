@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.autoitscript.com/forum/uploads/monthly_2020_03/tech.gif.7449db47191b0e32967887c117908b3c.gif" alt="MasterHead" height="200">
+  <img src="https://www.autoitscript.com/forum/uploads/monthly_2020_03/tech.gif.7449db47191b0e32967887c117908b3c.gif" alt="MasterHead" height="150">
 </p>
 <h1 align="center">Hi 👋, I'm Bart</h1>
 <h3 align="center">A passionate junior frontend developer from Poland</h3>
