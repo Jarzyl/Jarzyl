@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on: **Ecommerce shop**
 
-- 🌱 I’m currently learning: **React, TypeScript, Node.js**
+- 🌱 I’m currently learning: **JavaScript, Axios, NextAuth, React, TypeScript**
 
 - 👨‍💻 All of my projects are available at: [bartosz-jarzylo.com](bartosz-jarzylo.com)
 
