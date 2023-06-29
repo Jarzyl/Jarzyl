@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jarzyl&label=Profile%20views&color=0e75b6&style=flat" alt="jarzyl" /> </p>
 
-- 🔭 I’m currently working on: **Ecommerce shop**
+- 🔭 I’m currently working on: **Ecommerce shop, News Site**
 
-- 🌱 I’m currently learning: **JavaScript, Axios, NextAuth, React, TypeScript**
+- 🌱 I’m currently learning: **Angular, Three.js, TypeScript, SCSS**
 
 - 👨‍💻 All of my projects are available at: [bartosz-jarzylo.com](bartosz-jarzylo.com)
 
