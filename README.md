@@ -2,13 +2,13 @@
   <img src="https://www.autoitscript.com/forum/uploads/monthly_2020_03/tech.gif.7449db47191b0e32967887c117908b3c.gif" alt="MasterHead" height="150" width="800">
 </p>
 <h1 align="center">Hi 👋, I'm Bart</h1>
-<h3 align="center">A passionate junior frontend developer from Poland</h3>
+<h3 align="center">A passionate Fullstack developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jarzyl&label=Profile%20views&color=0e75b6&style=flat" alt="jarzyl" /> </p>
 
 - 🔭 I’m currently working on: **BankApp, App with courses**
 
-- 🌱 I’m currently learning: **Angular, Three.js, TypeScript, SCSS, C#, .NET**
+- 🌱 I’m currently learning: **Angular, Three.js, C#, .NET, React, Next.js...**
 
 - 👨‍💻 All of my projects are available at: [bartosz-jarzylo.com](bartosz-jarzylo.com)
 
