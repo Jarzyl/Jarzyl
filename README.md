@@ -65,9 +65,12 @@ Passionate Software Developer | Fullstack | Frontend Developer
         <img src="./images/rxjs.png" alt="RxJs" width="44" height="44"/>
       <br>RxJs
     </td>
-      </td>
+    <td align="center" width="88">
+        <img src="./images/three.png" alt="Three.js" width="44" height="44"/>
+      <br>Three.js
+    </td>
       <td align="center" width="88">
-        <img src="./images/18-figma.svg" alt="Figma" width="44" height="44"/>
+        <img src="./images/figma.png" alt="Figma" width="44" height="44"/>
       <br>Figma
      </td>
 </table>
@@ -88,9 +91,13 @@ Passionate Software Developer | Fullstack | Frontend Developer
         <img src="./images/express.png" alt="Express.js" width="44" height="44"/>
       <br>Express.js
     </td>
-<td align="center" width="88">
+    <td align="center" width="88">
          <img src="./images/nestjs.png" alt="NestJS" width="44" height="44"/>
       <br>NestJS
+    </td>
+    <td align="center" width="88">
+        <img src="./images/csharp.png" alt="C#" width="44" height="44"/>
+      <br>C#
     </td>
     <td align="center" width="88">
         <img src="./images/net.png" alt=".NET" width="44" height="44"/>
@@ -109,6 +116,10 @@ Passionate Software Developer | Fullstack | Frontend Developer
       <br>MongoDB
     </td>
     <td align="center" width="88">
+        <img src="./images/mongose.png" alt="Mongoose" width="44" height="44"/>
+      <br>Mongoose
+    </td>
+    <td align="center" width="88">
         <img src="./images/prisma.png" alt="Prisma" width="44" height="44"/>
       <br>Prisma
     </td>
@@ -116,8 +127,12 @@ Passionate Software Developer | Fullstack | Frontend Developer
       <img src="./images/typeorm.svg" alt="TypeORM" width="44" height="44"/>
       <br>TypeORM
     </td>
+    <td align="center" width="88">
+      <img src="./images/ef.png" alt="Entity Framework" width="44" height="44"/>
+      <br>Entity Framework
+    </td>
         <td align="center" width="88">
-       <img src="./images/graphql.svg" alt="GraphQL" width="44" height="44"/>
+       <img src="./images/graphql.png" alt="GraphQL" width="44" height="44"/>
       <br>GraphQL
       </td>
   </tr>
@@ -139,11 +154,15 @@ Passionate Software Developer | Fullstack | Frontend Developer
     </td>
     <td align="center" width="88">
         <img src="./images/gitlab.svg" alt="Gitlab" width="44" height="44"/>
-      <br>Gitlab
+      <br>Gitlab CI/CD
+    </td>
+    <td align="center" width="88">
+        <img src="./images/aws.webp" alt="AWS" width="44" height="44"/>
+      <br>AWS
     </td>
       <td align="center" width="88">
          <img src="./images/git.png" alt="Git" width="44" height="44"/>
-      <br>Git
+      <br>Git CI/CD
     </td>
   </tr>
 </table>
@@ -175,7 +194,7 @@ Passionate Software Developer | Fullstack | Frontend Developer
       <br>React testing library
     </td>
     <td align="center" width="88">
-        <img src="./images/playwright.png" alt="Playwright" width="44" height="44"/>
+        <img src="./images/playwright.svg" alt="Playwright" width="44" height="44"/>
       <br>Playwright
     </td>
     <td align="center" width="88">
