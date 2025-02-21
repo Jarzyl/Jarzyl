@@ -1,29 +1,29 @@
 <div id="header" align="center">
 
-<img src="./assets/github.gif" width="100"/>
+   <img src="./assets/github.gif" width="100"/>
 
-<h1>
-Hey there, I'm Bart!
-<img src="./assets/giphy.gif" width="30px" alt="GIF">
-</h1>
+   <h1>
+   Hey there, I'm Bart!
+   <img src="./assets/giphy.gif" width="30px" alt="GIF">
+   </h1>
 
-   </div>
+</div>
   
-### About Me :
+### About Me:
 
-Passionate Software Developer | Fullstack | Frontend Developer
+Passionate Software Developer | Fullstack & Frontend Developer
 
 ### My Techstack and tools:
 
-### Frontend
+### Frontend:
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-     <td align="center"  width="88">
+      <td align="center"  width="88">
          <img src="./images/html.png" alt="HTML5" width="44" height="44"/>
       <br>HTML5
-    </td>
+   </td>
     <td align="center" width="88">
          <img src="./images/js.png" alt="JS" width="44" height="44"/>
       <br>JavaScript
@@ -56,6 +56,10 @@ Passionate Software Developer | Fullstack | Frontend Developer
        <img src="./images/tailwind.png" alt="TailwindCSS" width="44" height="44"/>
       <br>TailwindCSS
       </td>
+     <td align="center" width="88">
+        <img src="./images/three.png" alt="Three.js" width="44" height="44"/>
+      <br>Three.js
+    </td>
     </tr>
     <td align="center" width="88">
         <img src="./images/redux.png" alt="Redux" width="44" height="44"/>
@@ -64,10 +68,6 @@ Passionate Software Developer | Fullstack | Frontend Developer
       <td align="center" width="88">
         <img src="./images/rxjs.png" alt="RxJs" width="44" height="44"/>
       <br>RxJs
-    </td>
-    <td align="center" width="88">
-        <img src="./images/three.png" alt="Three.js" width="44" height="44"/>
-      <br>Three.js
     </td>
       <td align="center" width="88">
         <img src="./images/figma.png" alt="Figma" width="44" height="44"/>
@@ -78,7 +78,7 @@ Passionate Software Developer | Fullstack | Frontend Developer
 
 <br>
 
-### Backend & Databases
+### Backend & Databases:
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -123,11 +123,12 @@ Passionate Software Developer | Fullstack | Frontend Developer
         <img src="./images/prisma.png" alt="Prisma" width="44" height="44"/>
       <br>Prisma
     </td>
-    <td align="center" width="88">
+  </tr>
+  <td align="center" width="88">
       <img src="./images/typeorm.svg" alt="TypeORM" width="44" height="44"/>
       <br>TypeORM
     </td>
-    <td align="center" width="88">
+  <td align="center" width="88">
       <img src="./images/ef.png" alt="Entity Framework" width="44" height="44"/>
       <br>Entity Framework
     </td>
@@ -135,7 +136,6 @@ Passionate Software Developer | Fullstack | Frontend Developer
        <img src="./images/graphql.png" alt="GraphQL" width="44" height="44"/>
       <br>GraphQL
       </td>
-  </tr>
     <td align="center" width="88"> 
         <img src="./images/redis.png" alt="Redis" width="44" height="44"/>
       <br>Redis
@@ -143,7 +143,9 @@ Passionate Software Developer | Fullstack | Frontend Developer
 </table>
 </div>
 
-### DevOps
+<br>
+
+### DevOps:
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -167,6 +169,8 @@ Passionate Software Developer | Fullstack | Frontend Developer
   </tr>
 </table>
 </div>
+
+<br>
 
 ### Testing:
 
@@ -205,10 +209,12 @@ Passionate Software Developer | Fullstack | Frontend Developer
 </table>
 </div>
 
-### Languages :
+<br>
+
+### Languages:
 
 <div style="display: flex; align-items: flex-start; align: center">
-<table  align="center">
+<table align="center">
   <tr>
     
         PL Polish - Native
@@ -244,5 +250,5 @@ Passionate Software Developer | Fullstack | Frontend Developer
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jarzyl&label=Profile%20views&color=0e75b6&style=flat" alt="jarzyl" /> </p>
+<p align="center"> Old stats: <img src="https://komarev.com/ghpvc/?username=jarzyl&label=Profile%20views&color=0e75b6&style=flat" alt="jarzyl" /> </p>
 
