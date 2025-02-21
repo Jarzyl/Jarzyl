@@ -1,29 +1,229 @@
-<p align="center">
-  <img src="https://www.autoitscript.com/forum/uploads/monthly_2020_03/tech.gif.7449db47191b0e32967887c117908b3c.gif" alt="MasterHead" height="150" width="800">
-</p>
-<h1 align="center">Hi 👋, I'm Bart</h1>
-<h3 align="center">A passionate Fullstack developer from Poland</h3>
+<div id="header" align="center">
+
+<img src="./assets/github.gif" width="100"/>
+
+<h1>
+Hey there, I'm Bart!
+<img src="./assets/giphy.gif" width="30px" alt="GIF">
+</h1>
+
+   </div>
+  
+### About Me :
+
+Passionate Software Developer | Fullstack | Frontend Developer
+
+### My Techstack and tools:
+
+### Frontend
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+     <td align="center"  width="88">
+         <img src="./images/html.png" alt="HTML5" width="44" height="44"/>
+      <br>HTML5
+    </td>
+    <td align="center" width="88">
+         <img src="./images/js.png" alt="JS" width="44" height="44"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="88">
+        <img src="./images/typescript.png" alt="TS" width="44" height="44"/>
+      <br>TypeScript
+    </td>
+    <td align="center" width="88">
+        <img src="./images/nextjs.png" alt="Next.js" width="44" height="44"/>
+      <br>Next.js
+    </td>
+    <td align="center" width="88">
+        <img src="./images/react.png" alt="React" width="44" height="44"/>
+      <br>React.js
+    </td>
+    <td align="center" width="88">
+        <img src="./images/angular.png" alt="Angular" width="44" height="44"/>
+      <br>Angular
+    </td>
+    <td align="center" width="88">
+        <img src="./images/css.png" alt="CSS3" width="44" height="44"/>
+      <br>CSS3
+    </td>
+    <td align="center" width="88">
+      <img src="./images/sass.png" alt="Sass" width="44" height="44"/>
+      <br>Sass
+    </td>
+        <td align="center" width="88">
+       <img src="./images/tailwind.png" alt="TailwindCSS" width="44" height="44"/>
+      <br>TailwindCSS
+      </td>
+    </tr>
+    <td align="center" width="88">
+        <img src="./images/redux.png" alt="Redux" width="44" height="44"/>
+      <br>Redux
+    </td>
+      <td align="center" width="88">
+        <img src="./images/rxjs.png" alt="RxJs" width="44" height="44"/>
+      <br>RxJs
+    </td>
+      </td>
+      <td align="center" width="88">
+        <img src="./images/18-figma.svg" alt="Figma" width="44" height="44"/>
+      <br>Figma
+     </td>
+</table>
+</div>
+
+<br>
+
+### Backend & Databases
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+     <td align="center"  width="88">
+         <img src="./images/node.png" alt="Node.js" width="44" height="44"/>
+      <br>Node.js
+    </td>
+    <td align="center" width="88">
+        <img src="./images/express.png" alt="Express.js" width="44" height="44"/>
+      <br>Express.js
+    </td>
+<td align="center" width="88">
+         <img src="./images/nestjs.png" alt="NestJS" width="44" height="44"/>
+      <br>NestJS
+    </td>
+    <td align="center" width="88">
+        <img src="./images/net.png" alt=".NET" width="44" height="44"/>
+      <br>.NET
+    </td>
+    <td align="center" width="88">
+        <img src="./images/postgres.png" alt="PostgreSQL" width="44" height="44"/>
+      <br>PostgresSQL
+    </td>
+    <td align="center" width="88">
+        <img src="./images/sql.svg" alt="MS SQL Sever" width="44" height="44"/>
+      <br>MS SQL Sever
+    </td>
+    <td align="center" width="88">
+        <img src="./images/mongo.png" alt="MongoDB" width="44" height="44"/>
+      <br>MongoDB
+    </td>
+    <td align="center" width="88">
+        <img src="./images/prisma.png" alt="Prisma" width="44" height="44"/>
+      <br>Prisma
+    </td>
+    <td align="center" width="88">
+      <img src="./images/typeorm.svg" alt="TypeORM" width="44" height="44"/>
+      <br>TypeORM
+    </td>
+        <td align="center" width="88">
+       <img src="./images/graphql.svg" alt="GraphQL" width="44" height="44"/>
+      <br>GraphQL
+      </td>
+  </tr>
+    <td align="center" width="88"> 
+        <img src="./images/redis.png" alt="Redis" width="44" height="44"/>
+      <br>Redis
+    </td>
+</table>
+</div>
+
+### DevOps
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+      <td align="center"  width="88">
+         <img src="./images/docker.png" alt="Docker" width="44" height="44"/>
+      <br>Docker
+    </td>
+    <td align="center" width="88">
+        <img src="./images/gitlab.svg" alt="Gitlab" width="44" height="44"/>
+      <br>Gitlab
+    </td>
+      <td align="center" width="88">
+         <img src="./images/git.png" alt="Git" width="44" height="44"/>
+      <br>Git
+    </td>
+  </tr>
+</table>
+</div>
+
+### Testing:
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+     <td align="center"  width="88">
+         <img src="./images/jasmine.png" alt="Jasmine" width="44" height="44"/>
+      <br>Jasmine
+    </td>
+    <td align="center" width="88">
+        <img src="./images/karma.png" alt="Karma" width="44" height="44"/>
+      <br>Karma
+    </td>
+    <td align="center" width="88">
+        <img src="./images/jest.png" alt="Jest" width="44" height="44"/>
+      <br>Jest
+    </td>
+<td align="center" width="88">
+         <img src="./images/angular-testing.png" alt="Angular testing library" width="44" height="44"/>
+      <br>Angular testing library
+    </td>
+    <td align="center" width="88">
+        <img src="./images/react-testing.png" alt="React testing library" width="44" height="44"/>
+      <br>React testing library
+    </td>
+    <td align="center" width="88">
+        <img src="./images/playwright.png" alt="Playwright" width="44" height="44"/>
+      <br>Playwright
+    </td>
+    <td align="center" width="88">
+        <img src="./images/cypress.png" alt="Cypress" width="44" height="44"/>
+      <br>Cypress
+    </td>
+  </tr>
+</table>
+</div>
+
+### Languages :
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table  align="center">
+  <tr>
+    
+        PL Polish - Native
+        
+  </tr>
+
+  <tr>
+    
+      EN English - Upper-Intermediate
+        
+  </tr>
+</table>
+</div>
+
+### GitHub Stats :
+
+<table align="center">
+  <tr>
+  <td>
+  <a href="https://github.com/Jarzyl/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jarzyl&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=#434d58" alt="Jarzyl github stats" /></a>
+  </td>
+  <td>
+  <a href="https://github.com/Jarzyl/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarzyl&layout=compact&theme=buefy&hide_border=true" /></a>
+  </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+<a href="https://u8views.com/github/Jarzyl"><img src="https://u8views.com/api/v1/github/profiles/119061258/views/day-week-month-total-count.svg"></a>
+</div>
+
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jarzyl&label=Profile%20views&color=0e75b6&style=flat" alt="jarzyl" /> </p>
 
-- 🔭 I’m currently working on: **BankApp, App with courses**
-
-- 🌱 I’m currently learning: **Angular, Three.js, C#, .NET, React, Next.js...**
-
-- 👨‍💻 All of my projects are available at: [bartosz-jarzylo.com](bartosz-jarzylo.com)
-
-- 📫 How to reach me: **bjarzylo.work@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bartosz-jarzyło-460460260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bartosz-jarzyło-460460260" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1200px-Three.js_Icon.svg.png" alt="threejs" width="40" height="40"/> </a> | ReactThreeFiber</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarzyl&show_icons=true&locale=en&layout=compact" alt="jarzyl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jarzyl&show_icons=true&locale=en" alt="jarzyl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jarzyl&" alt="jarzyl" /></p>
